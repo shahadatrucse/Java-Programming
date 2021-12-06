@@ -29,7 +29,6 @@ public class JavaVariables {
         System.out.println(a);
 
 
-
     }*/
 
     // Java Variable Example : Overflow
