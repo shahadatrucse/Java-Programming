@@ -1,9 +1,12 @@
 public class JavaVariables {
+    //
     /* Examples to understand the types of data in Java
         static int n = 1000;//static variable
 
+
         void method(){
             int m =10;//local variable
+
         }
         public static void main (String args[])
         {
